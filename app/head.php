@@ -5,9 +5,9 @@ function head($page)
 
     //Page
     if ($page == 1) {
-        $title = "Exemple";
+        $title = "TyroStudio";
     } else {
-        $title = "404 | Exemple";
+        $title = "404 | TyroStudio";
     }
 
 
