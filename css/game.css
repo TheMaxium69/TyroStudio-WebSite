@@ -1,0 +1,50 @@
+#game .wrapper{
+    margin-top: 60px;
+    text-align: start;
+}
+
+#game .wrapper img{
+    width: 100%;
+    max-width: 466px;
+}
+
+#game .wrapper article{
+    width: 60%;
+    margin: auto;
+    margin-bottom: 68px;
+}
+
+#game .wrapper article div{
+    width: 50%;
+}
+#game .wrapper article div:first-child{
+    text-align: end;
+    padding-right: 55px;
+}
+
+#game .wrapper article div h1{
+    font-size: 3.5rem;
+    margin-top: 26%;
+    margin-bottom: 24px;
+}
+
+@media (max-width: 1080px) {
+    #game .wrapper article {
+        width: 100%;
+        display: block!important;
+    }
+
+    #game .wrapper article div{
+        width: 100%;
+        text-align: center!important;
+    }
+
+    #game .wrapper article div h1 {
+        margin-top: unset;
+    }
+
+    #game .wrapper article div:first-child{
+        padding-right: unset;
+    }
+
+}

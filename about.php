@@ -1,15 +1,10 @@
-<?php include "app/app.php"; $page = 1; head($page); ?>
+<?php include "app/app.php"; $page = 3; head($page); ?>
 <body> <header> <?php navbar($page); ?> </header>
 
-<main id="index">
+<main>
 
     <div class="wrapper">
 
-        <img class="orange-back" src="assets/logo.png" alt="TyroStudio Logo">
-
-        <h1 class="police-title">TyroStudio</h1>
-
-        <p>Studio de création de jeux vidéo français,<br> géré par la société Tyrolium.</p>
     </div>
 
 

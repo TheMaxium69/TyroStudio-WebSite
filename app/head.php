@@ -6,8 +6,14 @@ function head($page)
     //Page
     if ($page == 1) {
         $title = "TyroStudio";
+    } else if ($page == 2) {
+        $title = "TyroStudio - Nos Jeux";
+    } else if ($page == 3) {
+        $title = "TyroStudio - A propos";
+    } else if ($page == 4) {
+        $title = "TyroStudio - Légal";
     } else {
-        $title = "404 | TyroStudio";
+        $title = "TyroStudio - 404";
     }
 
 

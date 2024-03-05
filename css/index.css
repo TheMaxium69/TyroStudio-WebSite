@@ -1,26 +1,26 @@
-.wrapper{
+#index .wrapper{
     text-align: center;
 
 }
 
-.wrapper img{
+#index .wrapper img{
     width: 40%;
     margin-top: 60px;
     max-width: 466px;
 }
 
-.wrapper h1{
+#index .wrapper h1{
     margin-top: 20px;
     margin-bottom: 20px;
 }
 
 @media (max-width: 901px) {
-    .wrapper img{
+    #index .wrapper img{
         width: 60%;
     }
 }
 @media (max-width: 529px) {
-    .wrapper img{
+    #index .wrapper img{
         width: 90%;
     }
 }
