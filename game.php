@@ -12,7 +12,7 @@
             </div>
 
             <div>
-                <h1 class="police-title">Premier Jeux</h1>
+                <h1 class="police-title">RhodoTales</h1>
                 <p>Plateformer / Enigme</p>
                 <p>Sorti prévue : été 2024</p>
             </div>
