@@ -7,7 +7,7 @@
         <section id="projet">
             <br>
             <h2 style="font-size: 35px; text-align: center">Mentions Légales</h2>
-            <p style="font-size: 20px; text-align: center" class="container">Retrouvez ici toutes les informations légal sur TyroStudio.</p>
+            <p style="font-size: 20px; text-align: center" class="container">Retrouvez ici toutes les informations légales sur TyroStudio.</p>
             <br>
             <hr style="background: rgb(161, 161, 161);">
         </section>

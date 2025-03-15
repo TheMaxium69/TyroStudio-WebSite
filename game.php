@@ -14,7 +14,7 @@
             <div>
                 <h1 class="police-title">RhodoTales</h1>
                 <p>Plateformer / Enigme</p>
-                <p>Sorti prévue : été 2024</p>
+                <p>Sorti prévue : hiver 2025</p>
             </div>
 
         </article>
@@ -28,8 +28,8 @@
             <div>
                 <h1 class="police-title">TyroServ Game</h1>
                 <p>Adaptation de notre serveur<br>
-                    minecraft en Jeux</p>
-                <p>Sorti prévue : 2025</p>
+                    Minecraft en jeu</p>
+                <p>Sorti prévue : 2026</p>
             </div>
 
         </article>
